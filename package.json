@@ -1,6 +1,6 @@
 {
   "name": "buffer-helpers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Helper functions for Buffer.  Primarily to extract subsets of text.",
   "author": "Tyler Johnson <tejohnso@rogers.com>",
   "engines": {
