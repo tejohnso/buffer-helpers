@@ -15,3 +15,7 @@ Helper functions will be loaded onto Buffer.prototype
 * extractSubsets(startDelim, endDelim) - returns an array of Buffers containing all of the occurences between startDelim and endDelim
 * extractSubsetsRecursive(startDelim, endDelim) - a recursive version
 
+## License
+
+MIT
+http://opensource.org/licenses/mit-license.php
