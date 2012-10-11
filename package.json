@@ -1,0 +1,19 @@
+{
+  "name": "buffer-helpers",
+  "version": "0.0.1",
+  "description": "Helper functions for Buffer.  Primarily to extract subsets of text.",
+  "author": "Tyler Johnson <tejohnso@rogers.com>",
+  "engines": {
+    "node" : ""
+  },
+  "directories": {
+    "lib" : "lib",
+    "test" : "test"
+  },
+  "main": "./lib/bufferHelpers",
+  "dependencies": {},
+  "repository": {
+    "type":"git",
+    "url":"http://github.com/tejohnso/buffer-helpers.git"
+  }
+}
