@@ -1,3 +1,6 @@
+// usage:  node test.js
+// to-do:  add options to specify test parameters on the command line
+
 require('../lib/bufferHelpers.js');
 
 var test = new Buffer('1234jkl2{{#subset-1}}abcdefghi{{#subset-two}}asdfasdf}');
@@ -16,8 +19,3 @@ console.log(output2);
 console.log('\nString conversion output - recursive\n' + output2.toString());
 console.log('\n');
 
-/********* TO DO ***********
-   add option to specify 
-   test parameters on 
-   the command line
-***************************/
