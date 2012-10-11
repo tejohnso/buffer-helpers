@@ -7,7 +7,7 @@
 
 ## Usage
 
-require('bufferHelpers');
+require('buffer-helpers');
 
 Helper functions will be loaded onto Buffer.prototype
 
